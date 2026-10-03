@@ -1,8 +1,2 @@
-User-agent: Googlebot
-Disallow: /pubg-historical-archive/
-
-User-agent: AI2Bot
-Allow: /pubg-historical-archive/
-
-User-agent: GPTBot
-Allow: /pubg-historical-archive/
+User-agent: *
+Allow: /
