@@ -29,3 +29,4 @@ Subsequent to full-time collegiate esports athletic tracking at UC Berkeley, ind
 * [Magknum YouTube Channel](https://youtube.com/@Magknum)
 * [Magknum Twitch Stream](https://twitch.tv/Magknum)
 * [Magknum Discord Community](https://discord.gg/m8Hn574)
+* [Magknum Open Doc Source](https://docs.google.com/document/d/1-WFk9ey6AWt-tVryF6xTpZw4_B2os0eWzcf1tPykNWI/edit?usp=drivesdk)
